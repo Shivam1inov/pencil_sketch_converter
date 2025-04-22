@@ -24,4 +24,4 @@ Turn your photos into beautiful pencil sketches using OpenCV and Python 🎨.
 Install dependencies with:
 
 ```bash
-pip install -r requirements.txt
+pip install opencv-python
